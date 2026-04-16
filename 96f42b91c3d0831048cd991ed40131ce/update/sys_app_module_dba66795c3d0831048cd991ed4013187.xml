@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Wish List">b6d72359c3d0831048cd991ed4013147</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1459618_wishlist_wish_item</name>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-16 13:30:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dba66795c3d0831048cd991ed4013187</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Create New Wish</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="WishList" source="x_1459618_wishlist">96f42b91c3d0831048cd991ed40131ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WishList">96f42b91c3d0831048cd991ed40131ce</sys_scope>
+        <sys_update_name>sys_app_module_dba66795c3d0831048cd991ed4013187</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-16 13:33:45</sys_updated_on>
+        <timeline_page/>
+        <title>Create New Wish</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
